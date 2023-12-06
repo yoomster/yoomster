@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 
-### 🌱 I’m currently learning about different databasses; SQL and noSQL
+### 🌱 I’m currently learning about different databasses; SQL and noSQL.
+### 🔭 I’m currently working on MongoDB through Docker.
 
-### ⚡ Fun fact: the national animal of Schotland is a unicorn
+### ⚡ Fun fact: the national animal of Schotland is an unicorn
 
 <!--
 **yoomster/yoomster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
