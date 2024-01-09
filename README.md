@@ -2,7 +2,7 @@
 
 
 ### 🌱 I’m currently learning about different databasses; SQL and noSQL.
-### 🔭 I’m currently working on Azure Cosmos DB
+### 🔭 I’m currently working on API as access method
 
 ### ⚡ Fun fact: the national animal of Schotland is an unicorn
 
