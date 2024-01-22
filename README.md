@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 
-### 🌱 I’m currently learning about different databasses; SQL and noSQL.
-### 🔭 I’m currently working on API as access method
+### 🌱 I’m currently learning to create a mvp to get the customer going and to identify what features should be added
+### 🔭 I’m currently working on a Hotel Management App with both client and employee interface
 
 ### ⚡ Fun fact: the national animal of Schotland is an unicorn
+
+### 📫 How to reach me: www.linkedin.com/in/naomi-perenboom-5a99bb296
+
 
 <!--
 **yoomster/yoomster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
