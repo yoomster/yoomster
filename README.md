@@ -1,4 +1,4 @@
-## Hi there, welcome to my project || portfolio 👋
+## Hi there, welcome to my projects || portfolio 👋
 
 
 ### 🌱 I’m currently learning about project architecture; how to create and use multiple UML diagrams to get and give a clear overview of the project   
