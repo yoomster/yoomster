@@ -1,11 +1,11 @@
 ## Hi there, welcome to my projects || portfolio 👋
 
 
-### 🌱 I’m currently learning about DDD, Domain Driven Design   
+### 🌱 I’m currently learning more about front-end languages
 
-### 🔭 I’m currently working on a a project SeniorConnect, which is a web app for seniors to connect to peers through activities and knowledge sharing 
+<!-- ### 🔭 I’m currently working on a a project SeniorConnect, which is a web app for seniors to connect to peers through activities and knowledge sharing -->
 
-### ⚡ Fun fact about me: I love sailing, reading, nature and animals
+### ⚡ Fun fact about me: I love sailing, reading, arial silk, nature and animals
 
 ### 📫 How to reach me: www.linkedin.com/in/naomi-perenboom-5a99bb296
 
